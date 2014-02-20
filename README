@@ -1,0 +1,9 @@
+/* Authenticate */
+
+A pretty straight forward (and quite possibly flawed) authentication implementation for php+sqlite.
+
+Please use HTTPS/SSL for for your login pages, otherwise your passwords will be transmitted in plain text.
+
+As with most of my code, any real documentation of how this works (if there is any at all) exists in the comments. Deal.
+
+Have fun.
